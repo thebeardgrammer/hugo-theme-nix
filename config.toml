@@ -1,0 +1,11 @@
+[params]
+  GithubID = "thebeardgrammer"
+  TwitterID = "thebeardgrammer"
+  LinkedInID = "matthewdavidreynolds"
+  FacebookID = "mattdreynolds"
+  Name = "Matt Reynolds"
+  HeaderUsername = "thebeardgrammer"
+  HeaderHostname = "texops.io"
+  Email = "thebeardgrammer@texops.io"
+  About = "A Texas Sized Journey Into DevOps"
+  ProfilePicture = "https://s3.amazonaws.com/texopsbackup/assets/img/logo.png"
