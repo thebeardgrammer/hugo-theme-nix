@@ -1,21 +1,20 @@
+[[menu.header]]
+name = "about"
+url = "/about"
+weight = 1
+[[menu.header]]
+name = "posts"
+url = "/posts"
+weight = 2
 [params]
-  baseURL = "/"
-  GithubID = "thebeardgrammer"
-  TwitterID = "thebeardgrammer"
-  LinkedInID = "matthewdavidreynolds"
-  FacebookID = "mattdreynolds"
-  Name = "Matt Reynolds"
-  HeaderUsername = "thebeardgrammer"
-  HeaderHostname = "texops.io"
-  Email = "thebeardgrammer@texops.io"
-  About = "A Texas Sized Journey Into DevOps"
-  ProfilePicture = "https://s3.amazonaws.com/texopsbackup/assets/img/logo.png"
-[menu]
-  [[menu.header]]
-    name = "posts"
-    weight = 0
-    url = "/posts"
-  [[menu.header]]
-    name = "about"
-    weight = 0
-    url = "/about"
+about = "A Texas Sized Journey Into DevOps"
+baseurl = "/"
+email = "thebeardgrammer@texops.io"
+facebookid = "mattdreynolds"
+githubid = "thebeardgrammer"
+headerhostname = "texops.io"
+headerusername = "thebeardgrammer"
+linkedinid = "matthewdavidreynolds"
+name = "Matt Reynolds"
+profilepicture = "https://s3.amazonaws.com/texopsbackup/assets/img/logo.png"
+twitterid = "thebeardgrammer"
