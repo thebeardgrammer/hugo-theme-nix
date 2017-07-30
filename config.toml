@@ -1,6 +1,5 @@
 baseURL = "http://www.texops.io"
 title = "TexOps.io"
-theme = "nix"
 languageCode = "en-us"
 
 [params]
